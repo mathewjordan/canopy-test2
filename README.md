@@ -2,6 +2,8 @@
 
 This repository offers a trimmed down starting point for new Canopy IIIF projects. When you need deeper documentation, examples, or release notes, vist the main project at https://canopy-iiif.github.io/app/.
 
+- Trigger build #1
+
 ## Getting Started
 
 Walk through the [Quick Start guide](https://canopy-iiif.github.io/app/docs/user-guides/canopy-get-started.html) to stand up your new digital project, configure `canopy.yml` using IIIF collections and manifests, and add pages and layouts under `content/`.
