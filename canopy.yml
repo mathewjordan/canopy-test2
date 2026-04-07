@@ -13,6 +13,7 @@ metadata:
   - Genre
 featured:
   - https://iiif.vam.ac.uk/collections/O755793/manifest.json
+  - https://iiif.vam.ac.uk/collections/O136839/manifest.json
 search:
   page:
     title: Search
